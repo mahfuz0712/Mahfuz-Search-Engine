@@ -1,2 +1,2 @@
 # Mahuz-Search-Engine (MSE) Personal Search Engine
-This Search Engine is owned by Dexcorp Softwares Limited
+This Search Engine is just an example of how search engines works.
